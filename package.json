@@ -1,6 +1,6 @@
 {
   "name": "underline2upper",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "下划线单词分割方式转为大小写分割方式",
   "main": "index.js",
   "scripts": {
